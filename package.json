@@ -1,0 +1,22 @@
+{
+  "name": "gulp-underscore-template",
+  "version": "1.0.0",
+  "description": "gulp underscore template pre-compiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@code.dianpingoa.com:f2e/gulp-underscore-template.git"
+  },
+  "keywords": [
+    "gulp",
+    "underscore",
+    "backbone",
+    "template",
+    "precompile"
+  ],
+  "author": "Wang Mengzhe",
+  "license": "MPL 2.0"
+}
