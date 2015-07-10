@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@code.dianpingoa.com:f2e/gulp-underscore-template.git"
+    "url": "git@github.com:rhgb/gulp-underscore-template.git"
   },
   "keywords": [
     "gulp",
